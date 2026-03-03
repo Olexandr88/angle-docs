@@ -69,8 +69,8 @@ The Angle Bridge infrastructure described in this page only applies to the chain
 
 | Chain         | EURA                                                                                                         | ANGLE                                                          |
 | ------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
-| Polygon       | [LayerZero](https://app.angle.money/bridges), [Polygon PoS bridge](https://wallet.polygon.technology/bridge) | [Polygon PoS bridge](https://wallet.polygon.technology/bridge) |
+| Polygon       | [LayerZero](https://app.angle.money/bridges), [Polygon PoS bridge](https://portal.polygon.technology/bridge) | [Polygon PoS bridge](https://wallet.polygon.technology/bridge) |
 | NEAR / Aurora | [Rainbow Bridge](https://rainbowbridge.app/transfer)                                                         | [Rainbow Bridge](https://rainbowbridge.app/transfer)           |
 | Solana        | [Wormhole](https://wormholebridge.com/#/transfer)                                                            | [Wormhole](https://wormholebridge.com/#/transfer)              |
 
-On Polygon PoS, the canonical representation of the ANGLE token is that of the [Polygon PoS bridge](https://wallet.polygon.technology/bridge). On this chain as well, beyond LayerZero, it's also possible to bridge EURA using [Polygon PoS bridge](https://wallet.polygon.technology/bridge) solution.
+On Polygon PoS, the canonical representation of the ANGLE token is that of the [Polygon PoS bridge](https://portal.polygon.technology/bridge). On this chain as well, beyond LayerZero, it's also possible to bridge EURA using [Polygon PoS bridge](https://portal.polygon.technology/bridge) solution.
